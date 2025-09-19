@@ -3,6 +3,7 @@
 A modern and responsive developer portfolio built with **React + TailwindCSS + Framer Motion** to showcase my skills, achievements, and projects.
 
 🚀 Live Site: [Portfolio Link](http://localhost:5173/)
+
 ✨ Features
 - 📖 About Me section with timeline of achievements  
 - 💼 Projects showcase with live links & GitHub repos  
